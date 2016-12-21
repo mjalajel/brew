@@ -4,4 +4,4 @@ For more information on installing these formulas, read: [Homebrew page on custo
 
 Listed formulas are for:
 
-- Elasticsearch version 2.3.5
+- Elasticsearch version 2.3.5 (a _slightly_ modified version of an [older community formula](https://github.com/Homebrew/homebrew-core/blob/949713f26184ffa5a56cbb5f687a4352613af40d/Formula/elasticsearch.rb) )
